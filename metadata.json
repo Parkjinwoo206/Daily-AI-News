@@ -1,0 +1,5 @@
+{
+  "name": "AI News Reader",
+  "description": "A modern, mobile-first news aggregation application focused on AI technology updates with a clean, dark-mode supported UI.",
+  "requestFramePermissions": []
+}
